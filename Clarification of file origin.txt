@@ -1,0 +1,31 @@
+The things listed below are what parts of this program
+I have personally implemented from scratch. 
+The other m-files and mat-files are for scielab, a function
+created by Xuemei Zhang, and was given to me by my teachers in the course
+TNM097 (Daniel Nyström and Sasan Goran). 
+
+main.m
+makeBeadBox.m
+makePalettes.m
+checkQuality.m
+createBinaryMask.m
+
+testing.mlx
+checklist.mlx
+SpecializedPallettesForMain.mlx
+handl2202.mlx
+handl2402.mlx
+
+RanRgb21.mat
+RanRgb51.mat
+RanRgb100.mat
+
+SpecRgb20.mat
+SpecRgb50.mat
+SpecRgb100.mat
+
+Folders:
+extra, images, notes, specializedPalettes
+
+
+
