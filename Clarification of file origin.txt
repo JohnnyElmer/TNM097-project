@@ -1,8 +1,5 @@
-The things listed below are what parts of this program
-I have personally implemented from scratch. 
-The other m-files and mat-files are for scielab, a function
-created by Xuemei Zhang, and was given to me by my teachers in the course
-TNM097 (Daniel Nyström and Sasan Goran). 
+The things listed below are what parts of this program which I have personally implemented from scratch. 
+The other m-files and mat-files are for S-CIELAB, which is described further below.
 
 main.m
 makeBeadBox.m
@@ -25,7 +22,7 @@ SpecRgb50.mat
 SpecRgb100.mat
 
 Folders:
-extra, images, notes, specializedPalettes
+images, specializedPalettes
 
 
 
